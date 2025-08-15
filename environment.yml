@@ -1,0 +1,13 @@
+
+name: arctic-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+      - nbconvert
